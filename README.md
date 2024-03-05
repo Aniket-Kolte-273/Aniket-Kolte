@@ -12,7 +12,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 | Skill                                                      | Associated Project         |
 |------------------------------------------------------------|----------------------------|
 | SIEM Implementation & Visualisation with Honeypot          | <a href="https://github.com/laaaaaarry/SIEM-Honeypot/tree/main">SIEM & Honeypot</a>|
-| Network Traffic Monitoring and Attack Detection            | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Analysis using Wireshark (SYN flood)       | <a href="https://google.com">Wireshark</a>|
 | Security Automation with Shuffle SOAR                      | SOC Automation Lab|
 | Incident Response Planning and Execution                   | SOC Automation Lab|
 | Case Management with TheHive                               | SOC Automation Lab|
@@ -49,4 +49,4 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 ## Projects
 - <a href="https://github.com/laaaaaarry/SIEM-Honeypot/tree/main">SIEM & Honeypot</a>
-- 
+- <a href="https://google.com">Wireshark Network Analysis</a>
