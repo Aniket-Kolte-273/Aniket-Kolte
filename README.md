@@ -11,12 +11,12 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 | Skill                                                      | Associated Project         |
 |------------------------------------------------------------|----------------------------|
-| SIEM Implementation & Visualisation with Honeypot          | <a href="https://github.com/laaaaaarry/SIEM-Honeypot/tree/main">SIEM & Honeypot</a>|
-| Network Traffic Analysis using Wireshark (SYN flood)       | <a href="https://github.com/laaaaaarry/Wireshark/tree/main">Wireshark</a>|
-| Malware Analysis                                           | <a href="https://github.com/laaaaaarry/Malware-Analysis">Malware Analysis</a>|
-| Incident Response Planning and Execution                   | SOC Automation Lab|
-| Case Management with TheHive                               | SOC Automation Lab|
-| Incident Response & Security Awareness Training            | <a href="https://github.com/laaaaaarry/Incident-Response">Incident Response</a>|
+| SIEM Implementation & Visualisation with Honeypot          | <a href="https://github.com/laaaaaarry/SIEM-Honeypot/tree/main">SIEM & Honeypot</a> |
+| Network Traffic Analysis using Wireshark (SYN flood)       | <a href="https://github.com/laaaaaarry/Wireshark/tree/main">Wireshark</a> | 
+| Malware Analysis                                           | <a href="https://github.com/laaaaaarry/Malware-Analysis">Malware Analysis</a> |
+| SIEM Incident Investigation                                | SOC Automation Lab |
+| Vulnerability Assessment                                   | <a href="https://github.com/laaaaaarry/Vulnerability-Assessment">Vulnerability Assessment</a> |
+| Incident Response & Security Awareness Training            | <a href="https://github.com/laaaaaarry/Incident-Response">Incident Response</a> |
 
 ## Tools
 
@@ -52,4 +52,5 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 - <a href="https://github.com/laaaaaarry/Wireshark/tree/main">Wireshark Network Analysis</a>
 - <a href="https://github.com/laaaaaarry/Malware-Analysis">Malware Analysis</a>
 - <a href="https://github.com/laaaaaarry/Incident-Response">Incident Response & Security Awareness Training</a>
+- <a href="https://github.com/laaaaaarry/Vulnerability-Assessment">Vulnerability Assessment</a>
 
