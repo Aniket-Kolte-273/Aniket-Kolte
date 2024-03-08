@@ -14,9 +14,10 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 | SIEM Implementation & Visualisation with Honeypot          | <a href="https://github.com/laaaaaarry/SIEM-Honeypot/tree/main">SIEM & Honeypot</a> |
 | Network Traffic Analysis using Wireshark (SYN flood)       | <a href="https://github.com/laaaaaarry/Wireshark/tree/main">Wireshark</a> | 
 | Malware Analysis                                           | <a href="https://github.com/laaaaaarry/Malware-Analysis">Malware Analysis</a> |
-| SIEM Incident Investigation                                | SOC Automation Lab |
+| SIEM Incident Investigation                                | <a href="https://google.com">SIEM Investigation</a> |
 | Vulnerability Assessment                                   | <a href="https://github.com/laaaaaarry/Vulnerability-Assessment">Vulnerability Assessment</a> |
 | Incident Response & Security Awareness Training            | <a href="https://github.com/laaaaaarry/Incident-Response">Incident Response</a> |
+| Python Scripts                                             | <a href="https://google.com">Python</a> |
 
 ## Tools
 
@@ -53,4 +54,5 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 - <a href="https://github.com/laaaaaarry/Malware-Analysis">Malware Analysis</a>
 - <a href="https://github.com/laaaaaarry/Incident-Response">Incident Response & Security Awareness Training</a>
 - <a href="https://github.com/laaaaaarry/Vulnerability-Assessment">Vulnerability Assessment</a>
-
+- <a href="https://google.com">Python Scripts</a>
+- <a href="https://google.com">SIEM Incident Investigation</a>
