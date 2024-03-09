@@ -17,7 +17,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 | SIEM Incident Investigation                                | <a href="https://github.com/laaaaaarry/SIEM-Investigation/tree/main">SIEM Investigation</a> |
 | Vulnerability Assessment                                   | <a href="https://github.com/laaaaaarry/Vulnerability-Assessment">Vulnerability Assessment</a> |
 | Incident Response & Security Awareness Training            | <a href="https://github.com/laaaaaarry/Incident-Response">Incident Response</a> |
-| Python Scripts                                             | <a href="https://github.com/laaaaaarry/Python-scripts/tree/main">Python</a> |
+| Python Scripting                                            | <a href="https://github.com/laaaaaarry/Python-scripts/tree/main">Python</a> |
 
 ## Tools
 
