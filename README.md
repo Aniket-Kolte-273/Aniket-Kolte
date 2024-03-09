@@ -1,7 +1,7 @@
 # Hello, I'm Aniket
 <a href="https://linkedin.com/in/aniket-kolte"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🔐 Aspiring Entry-Level Security Analyst with a passion for tackling complex challenges and ensuring robust digital defenses.
+🔐 Aspiring Entry-Level SOC Analyst with a passion for tackling complex challenges and ensuring robust digital defenses.
 
 ## Objective
 
