@@ -12,12 +12,12 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 | Skill                                                      | Associated Project         |
 |------------------------------------------------------------|----------------------------|
 | SIEM Implementation & Visualisation with Honeypot          | <a href="https://github.com/Aniket-Kolte-273/P-1">SIEM & Honeypot</a> |
-| Network Traffic Analysis using Wireshark (SYN flood)       | <a href="https://github.com/laaaaaarry/Wireshark/tree/main">Wireshark</a> | 
-| Malware Analysis                                           | <a href="https://github.com/laaaaaarry/Malware-Analysis">Malware Analysis</a> |
-| SIEM Incident Investigation                                | <a href="https://github.com/laaaaaarry/SIEM-Investigation/tree/main">SIEM Investigation</a> |
-| Vulnerability Assessment                                   | <a href="https://github.com/laaaaaarry/Vulnerability-Assessment">Vulnerability Assessment</a> |
-| Incident Response & Security Awareness Training            | <a href="https://github.com/Aniket-Kolte-273/P-8">Incident Response</a> |
-| Python Scripting                                            | <a href="https://github.com/laaaaaarry/Python-scripts/tree/main">Python</a> |
+| Network Traffic Analysis using Wireshark (SYN flood)       | <a href="https://github.com/Aniket-Kolte-273/P-2">Wireshark</a> | 
+| Malware Analysis                                           | <a href="https://github.com/Aniket-Kolte-273/P-4">Malware Analysis</a> |
+| SIEM Incident Investigation                                | <a href="https://github.com/Aniket-Kolte-273/P-3">SIEM Investigation</a> |
+| Vulnerability Assessment                                   | <a href="https://github.com/Aniket-Kolte-273/P-6">Vulnerability Assessment</a> |
+| Incident Response & Security Awareness Training            | <a href="https://github.com/Aniket-Kolte-273/P-7">Incident Response</a> |
+| Python Scripting                                            | <a href="https://github.com/Aniket-Kolte-273/P-5">Python</a> |
 
 ## Tools
 
@@ -50,9 +50,9 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 ## Projects
 - <a href="https://github.com/Aniket-Kolte-273/P-1">SIEM & Honeypot</a>
-- <a href="https://github.com/laaaaaarry/Wireshark/tree/main">Wireshark Network Analysis</a>
-- <a href="https://github.com/laaaaaarry/Malware-Analysis">Malware Analysis</a>
-- <a href="https://github.com/Aniket-Kolte-273/P-8">Incident Response & Security Awareness Training</a>
-- <a href="https://github.com/laaaaaarry/Vulnerability-Assessment">Vulnerability Assessment</a>
-- <a href="https://github.com/laaaaaarry/Python-scripts/tree/main">Python Scripts</a>
-- <a href="https://github.com/laaaaaarry/SIEM-Investigation/tree/main">SIEM Incident Investigation</a>
+- <a href="https://github.com/Aniket-Kolte-273/P-2">Wireshark Network Analysis</a>
+- <a href="https://github.com/Aniket-Kolte-273/P-4">Malware Analysis</a>
+- <a href="https://github.com/Aniket-Kolte-273/P-7">Incident Response & Security Awareness Training</a>
+- <a href="https://github.com/Aniket-Kolte-273/P-6">Vulnerability Assessment</a>
+- <a href="https://github.com/Aniket-Kolte-273/P-5">Python Scripts</a>
+- <a href="https://github.com/Aniket-Kolte-273/P-3">SIEM Incident Investigation</a>
